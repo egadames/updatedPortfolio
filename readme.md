@@ -36,10 +36,10 @@ https://egadames.github.io/updatedPortfolio/index.html
 
 ### Screenshot
 
-![About](./Images/about_shot.JPG "Screenshot of About Me page")
+![About](./Assets/Img/about_shot.JPG "Screenshot of About Me page")
 
-![Portfolio](./Images/portfolio_shot.JPG "Screenshot of Portfolio page")
+![Portfolio](./Assets/Img/portfolio_shot.JPG "Screenshot of Portfolio page")
 
-![Contact](./Images/contact_shot.JPG "Screenshot of Contact page")
+![Contact](./Assets/Img/contact_shot.JPG "Screenshot of Contact page")
 
 
