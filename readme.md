@@ -10,7 +10,7 @@ https://github.com/egadames/updatedPortfolio
 
 This is the link to the live website:
 
-https://egadames.github.io/updatedPortfolio/index.html
+ https://egadames.github.io/updatedPortfolio/
 
 ### Description
 
