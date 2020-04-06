@@ -1,16 +1,16 @@
 # Project Title
 
-Homework 2 - Portfolio Website by Erik Adames
+Updated Portfolio Website by Erik Adames
 
 ## Location of URLs
 
 This is the link to the github repo:
 
-https://github.com/egadames/hw2
+https://github.com/egadames/updatedPortfolio
 
 This is the link to the live website:
 
-https://egadames.github.io/hw2/
+https://egadames.github.io/updatedPortfolio/index.html
 
 ### Description
 
@@ -36,10 +36,10 @@ https://egadames.github.io/hw2/
 
 ### Screenshot
 
-![About](./Images/about_shout.jpg "Screenshot of About Me page")
+![About](./Images/about_shot.JPG "Screenshot of About Me page")
 
-![Portfolio](./Images/portfolio_shout.jpg "Screenshot of Portfolio page")
+![Portfolio](./Images/portfolio_shot.JPG "Screenshot of Portfolio page")
 
-![Contact](./Images/contact_shout.jpg "Screenshot of Contact page")
+![Contact](./Images/contact_shot.JPG "Screenshot of Contact page")
 
 
